@@ -70,7 +70,7 @@ segment_treatments = {
 # Function to get Groq AI recommendations
 def get_groq_recommendation(segment, action_plan):
     groq_api_url = "https://api.groq.com/openai/v1/chat/completions"
-    api_key = os.getenv("GROQ_API_KEY")
+    api_key = st.secrets["GROQ_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
