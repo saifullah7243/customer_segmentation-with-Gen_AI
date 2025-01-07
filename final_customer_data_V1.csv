@@ -1,0 +1,796 @@
+total_spent,n_transaction,day_since_last_visit,median_days,segment
+6116.454,12,283,117.0,Can’t Lose Them
+3972.834,8,59,121.0,Loyal Customers
+6710.409,13,54,245.5,Champions
+3343.296,5,257,133.0,Hibernating
+4524.624,9,61,304.0,Champions
+4138.902,8,46,200.0,Champions
+2950.398,6,58,263.0,Potential Loyalist
+3590.691,6,144,321.0,Potential Loyalist
+2472.831,3,658,137.0,Lost
+9138.762,6,134,407.0,Customers Needing Attention
+6434.433,11,44,158.5,Champions
+1000.8885,5,407,356.0,Lost
+1830.93,9,123,176.5,Potential Loyalist
+7417.7385,11,133,258.5,Loyal Customers
+6300.594,6,43,361.0,Promising
+3689.523,9,74,248.5,Potential Loyalist
+950.595,6,287,260.0,Lost
+1661.91,4,227,300.0,Hibernating
+4994.8035,7,50,265.5,Customers Needing Attention
+6070.938,7,103,198.0,Loyal Customers
+6105.627,7,44,102.5,Customers Needing Attention
+3589.5405,9,180,377.5,At Risk
+7039.644,9,60,250.5,Champions
+8941.752,11,52,192.0,Champions
+560.082,3,348,372.0,Lost
+2645.472,4,444,270.0,Lost
+3530.013,7,142,223.0,Potential Loyalist
+1033.278,7,493,94.5,Lost
+6343.248,4,43,562.0,Promising
+2294.91,4,36,569.0,Recent Customers
+250.668,2,511,626.0,Lost
+5254.4565,7,260,354.5,At Risk
+7460.6025,11,159,214.5,At Risk
+6532.68,7,93,186.0,Loyal Customers
+4071.609,8,68,334.0,Loyal Customers
+63.867,2,152,1221.0,Hibernating
+3022.908,3,180,394.5,About to Sleep
+1899.006,4,135,569.0,About to Sleep
+1615.485,5,214,327.0,Hibernating
+4277.865,6,368,248.0,At Risk
+2738.22,5,71,93.0,Potential Loyalist
+1454.961,5,66,322.5,Recent Customers
+2730.207,9,264,217.0,At Risk
+2233.644,6,182,29.0,Hibernating
+2285.031,7,78,512.5,Potential Loyalist
+3513.558,9,61,112.5,Potential Loyalist
+6094.653,7,56,366.0,Loyal Customers
+1762.83,2,77,60.0,Recent Customers
+4359.993,8,33,126.0,Champions
+1286.883,4,142,350.0,Recent Customers
+2158.572,6,123,78.0,Hibernating
+3897.4875,7,79,217.0,Customers Needing Attention
+2248.506,6,184,203.0,Hibernating
+5655.996,10,219,224.0,At Risk
+7719.3,15,110,121.0,Loyal Customers
+4838.574,5,47,567.5,Promising
+2104.914,7,116,233.0,Hibernating
+7807.338,6,136,280.0,Customers Needing Attention
+5881.68,13,193,167.5,At Risk
+3109.1895,8,403,216.0,At Risk
+1434.6945,6,162,342.0,About to Sleep
+4066.104,5,66,339.5,Promising
+3401.121,7,446,217.5,At Risk
+4502.0145,6,238,217.0,At Risk
+2455.0425,2,150,732.0,Hibernating
+1808.856,5,45,175.0,Promising
+3910.71,7,85,209.5,Customers Needing Attention
+3939.5505,8,46,402.0,Champions
+7445.22,6,60,189.0,Promising
+1580.868,7,36,74.5,Potential Loyalist
+1638.876,5,211,440.5,Hibernating
+2303.469,4,365,71.0,Lost
+2425.236,8,33,241.0,Potential Loyalist
+10392.612,10,85,183.0,Champions
+6940.431,12,72,222.0,Champions
+1343.9745,6,42,266.0,Promising
+7588.551,7,80,206.5,Loyal Customers
+6135.591,8,89,137.0,Loyal Customers
+4346.28,7,44,321.0,Customers Needing Attention
+1183.152,4,87,436.0,Recent Customers
+2733.015,7,57,291.0,Potential Loyalist
+5518.401,5,180,485.0,At Risk
+10436.052,10,75,161.0,Champions
+3859.212,8,57,199.0,Customers Needing Attention
+4357.512,10,37,287.0,Champions
+3892.728,5,44,245.5,Promising
+2918.871,8,59,140.0,Customers Needing Attention
+3189.321,8,236,123.0,At Risk
+5881.743,12,121,138.0,Loyal Customers
+814.278,4,142,678.0,Recent Customers
+4186.815,5,150,392.0,At Risk
+1670.802,4,124,276.0,About to Sleep
+5227.527,8,59,184.0,Loyal Customers
+7625.277,7,115,176.0,Loyal Customers
+6311.457,8,205,493.0,At Risk
+2016.282,6,348,269.0,Hibernating
+2971.731,7,34,313.5,Potential Loyalist
+3729.726,6,66,169.0,Potential Loyalist
+4104.306,9,191,280.0,At Risk
+2532.8895,8,50,335.0,Potential Loyalist
+2432.2515,5,51,128.5,Promising
+2488.719,7,74,356.5,Potential Loyalist
+6600.672,7,64,246.0,Loyal Customers
+5214.09,7,106,439.0,Customers Needing Attention
+625.086,4,124,208.0,Recent Customers
+4035.6045,6,402,211.0,At Risk
+1268.136,3,819,208.0,Lost
+2491.884,7,86,116.0,Potential Loyalist
+4688.712,10,43,245.0,Champions
+3294.717,7,185,352.5,Hibernating
+3732.5595,9,60,251.0,Potential Loyalist
+1499.7,2,1064,87.0,Lost
+661.5,1,414,0.0,Lost
+7089.636,6,82,395.0,Promising
+1417.4385,6,220,462.0,About to Sleep
+3269.1825,7,37,296.5,Potential Loyalist
+4700.175,6,37,263.0,Promising
+3542.499,7,228,388.5,Hibernating
+4330.65,7,33,179.5,Customers Needing Attention
+3004.524,6,165,191.0,Hibernating
+5044.779,7,71,460.0,Customers Needing Attention
+11302.1535,11,37,200.0,Champions
+848.943,5,99,174.5,About to Sleep
+4356.8655,6,108,189.0,Customers Needing Attention
+760.032,6,380,58.0,Lost
+2709.561,6,44,440.0,Promising
+7409.511,8,39,146.0,Champions
+7412.154,9,33,195.0,Champions
+2261.202,6,105,191.0,Hibernating
+3883.32,7,76,347.5,Potential Loyalist
+4077.108,9,75,114.0,Champions
+3429.255,7,32,347.5,Potential Loyalist
+3599.136,9,229,151.0,At Risk
+1282.9185,6,64,470.0,Recent Customers
+1474.158,5,128,306.0,About to Sleep
+373.23,2,414,722.0,Lost
+4017.489,7,157,268.0,At Risk
+6312.624,9,172,88.0,At Risk
+1632.963,5,100,248.5,Hibernating
+4417.077,7,178,117.0,At Risk
+3736.68,4,498,412.0,Can’t Lose Them
+3530.262,4,501,297.0,Can’t Lose Them
+4945.008,7,282,193.5,At Risk
+2666.949,7,298,103.0,Hibernating
+1747.05,4,147,374.0,About to Sleep
+5983.542,6,306,432.0,At Risk
+4775.292,7,75,296.5,Customers Needing Attention
+1995.354,7,130,301.0,Hibernating
+2005.938,6,73,110.0,Recent Customers
+5663.8335,8,57,238.0,Champions
+9234.6225,6,82,328.0,Promising
+3184.617,6,72,222.0,Potential Loyalist
+668.34,4,103,251.0,Recent Customers
+2734.629,7,45,450.5,Potential Loyalist
+1353.312,6,126,319.0,About to Sleep
+2536.14,7,39,265.0,Potential Loyalist
+567.894,4,158,181.0,Hibernating
+5453.61,9,110,175.0,Loyal Customers
+974.79,4,397,826.0,Lost
+1411.746,5,58,119.5,Recent Customers
+5680.128,6,491,467.0,At Risk
+57.12,1,706,0.0,Lost
+4320.8775,5,115,173.5,Customers Needing Attention
+6208.545,7,37,186.5,Customers Needing Attention
+2706.006,5,222,183.5,Hibernating
+1505.61,8,33,341.0,Potential Loyalist
+502.479,1,856,0.0,Lost
+3538.845,6,81,219.0,Potential Loyalist
+7378.7745,8,75,186.0,Champions
+1685.6595,8,224,349.0,At Risk
+3425.865,9,36,436.0,Potential Loyalist
+2142.87,5,185,161.5,Hibernating
+4946.2395,8,160,396.0,At Risk
+6493.668,8,100,322.0,Loyal Customers
+1164.252,6,227,855.0,About to Sleep
+1559.883,6,50,98.0,Promising
+4739.2065,2,358,823.0,Can’t Lose Them
+1383.537,4,47,335.0,Recent Customers
+4747.965,7,296,325.5,At Risk
+2900.565,8,71,388.0,Customers Needing Attention
+1243.7775,6,72,45.0,Recent Customers
+1625.061,3,53,370.0,Recent Customers
+3641.7045,8,150,74.0,At Risk
+2292.849,6,88,84.0,Hibernating
+2180.73,6,124,231.0,Hibernating
+10119.5145,13,171,123.0,At Risk
+3926.061,5,65,45.0,Promising
+1284.498,8,91,259.0,Potential Loyalist
+4961.46,5,208,166.0,At Risk
+1338.45,3,102,680.5,Recent Customers
+3022.308,10,149,237.0,Potential Loyalist
+1893.552,7,227,142.0,Hibernating
+2532.633,5,88,358.5,Hibernating
+5771.586,5,177,292.5,At Risk
+116.73,1,1443,0.0,Lost
+4651.6095,7,58,148.0,Customers Needing Attention
+3888.786,9,71,314.0,Potential Loyalist
+5519.169,4,837,104.0,Can’t Lose Them
+2820.858,9,68,403.0,Potential Loyalist
+6304.872,10,120,291.0,Loyal Customers
+2930.634,10,36,183.0,Potential Loyalist
+2081.142,6,308,475.0,Hibernating
+2211.042,6,127,262.0,Hibernating
+7872.363,8,472,274.0,At Risk
+2386.3605,5,142,314.5,Hibernating
+5427.984,6,55,91.0,Promising
+926.838,2,163,1322.0,Hibernating
+1951.8105,4,36,738.0,Recent Customers
+3288.708,4,77,656.0,Promising
+5971.119,6,198,201.0,At Risk
+7443.411,9,87,138.5,Loyal Customers
+1631.604,5,149,215.5,Hibernating
+754.998,3,58,53.5,Recent Customers
+6544.737,5,38,149.0,Promising
+1818.78,6,57,172.0,Recent Customers
+980.94,2,121,1108.0,Recent Customers
+1270.365,4,59,529.0,Recent Customers
+4532.6625,6,40,318.0,Promising
+7307.4675,5,150,277.0,At Risk
+2482.2,6,158,269.0,Hibernating
+13192.7145,9,49,291.5,Champions
+4515.465,9,235,203.5,At Risk
+4806.387,8,33,373.0,Champions
+1497.168,8,269,208.0,Lost
+3069.525,5,85,500.5,Potential Loyalist
+1771.9305,6,31,187.0,Promising
+2878.5315,7,513,256.0,At Risk
+11159.442,11,53,274.0,Champions
+2697.642,3,318,475.0,Lost
+2973.486,7,191,382.5,Hibernating
+411.69,2,439,634.0,Lost
+3411.216,4,215,310.0,About to Sleep
+5615.853,8,53,305.0,Champions
+4510.23,7,197,411.0,At Risk
+3503.28,4,89,336.0,Promising
+5296.419,5,64,212.0,Promising
+1202.937,2,103,234.0,Recent Customers
+6898.965,10,175,90.0,At Risk
+1488.66,8,43,53.0,Potential Loyalist
+2974.221,6,191,457.0,Hibernating
+3873.897,9,608,124.5,At Risk
+2731.107,9,450,149.0,At Risk
+2329.509,6,137,217.0,Hibernating
+3961.284,4,432,312.0,Can’t Lose Them
+2518.932,3,52,195.0,Recent Customers
+3019.221,5,72,185.5,Potential Loyalist
+3125.49,6,739,93.0,Hibernating
+535.8,4,213,896.0,Hibernating
+3520.338,6,176,172.0,Hibernating
+2024.817,5,63,810.5,Recent Customers
+3775.416,5,204,825.0,Hibernating
+1956.408,5,175,307.0,Hibernating
+2758.296,5,123,482.0,Potential Loyalist
+1465.581,5,109,349.5,About to Sleep
+4427.295,6,313,272.0,At Risk
+9895.77,10,33,211.0,Champions
+7927.416,4,100,238.0,Promising
+1071.024,4,48,344.0,Recent Customers
+3080.622,8,46,143.0,Loyal Customers
+6882.543,7,172,175.5,At Risk
+2290.059,5,136,277.5,Hibernating
+4726.869,3,106,403.0,Promising
+3264.978,4,221,211.0,About to Sleep
+5760.45,10,47,281.0,Champions
+4894.836,6,173,194.0,At Risk
+978.891,4,133,533.0,Recent Customers
+4728.213,4,45,363.0,Promising
+4998.6105,11,31,280.0,Champions
+1336.218,3,609,60.0,Lost
+230.4,3,274,427.0,Lost
+5518.002,2,210,415.0,Can’t Lose Them
+2034.963,5,218,235.0,Hibernating
+5337.492,6,320,583.0,At Risk
+6521.262,10,84,114.0,Champions
+7493.9925,8,155,172.0,At Risk
+741.273,6,459,318.0,Lost
+2313.729,6,79,438.0,Recent Customers
+419.13,1,388,0.0,Lost
+3743.589,6,254,426.0,Hibernating
+3557.37,5,117,282.5,Potential Loyalist
+5512.557,7,129,240.0,Customers Needing Attention
+7076.8455,12,177,171.0,At Risk
+752.07,4,492,233.0,Lost
+2518.1955,4,122,233.0,About to Sleep
+2971.452,6,134,47.0,Potential Loyalist
+1406.787,3,822,50.5,Lost
+7366.317,13,58,226.0,Champions
+1172.037,5,241,223.0,About to Sleep
+912.4125,4,215,292.0,Hibernating
+4000.2795,8,32,195.0,Champions
+4471.6365,8,32,203.0,Champions
+977.976,4,520,138.0,Lost
+2878.365,5,331,129.5,Hibernating
+6755.5485,13,51,180.0,Champions
+6291.6735,11,50,200.0,Champions
+2402.073,6,50,310.0,Promising
+2031.201,3,396,70.5,Lost
+8433.9495,8,38,345.0,Champions
+7374.438,9,82,299.0,Champions
+285.81,3,535,270.5,Lost
+2146.227,6,53,779.0,Promising
+1204.374,3,281,586.5,Lost
+3042.255,5,171,366.0,Hibernating
+2996.373,6,80,584.0,Potential Loyalist
+1786.257,7,116,237.0,Hibernating
+5870.7885,9,374,54.0,Can’t Lose Them
+3744.8655,6,49,255.0,Promising
+3308.847,5,110,296.0,Potential Loyalist
+3599.07,8,96,429.0,Customers Needing Attention
+7619.664,10,64,248.0,Champions
+4429.452,8,36,191.0,Champions
+3114.546,5,38,500.0,Promising
+4693.041,5,227,128.0,At Risk
+11429.508,6,100,416.0,Customers Needing Attention
+2143.404,3,110,430.0,About to Sleep
+3410.049,9,39,408.0,Potential Loyalist
+2625.582,8,99,382.0,Potential Loyalist
+3551.742,5,110,760.5,Potential Loyalist
+3591.183,6,129,233.0,Potential Loyalist
+2873.82,6,43,302.0,Promising
+1755.1695,5,592,310.0,Hibernating
+1332.39,4,82,151.0,Recent Customers
+10466.7645,6,73,550.0,Promising
+9938.355,11,32,185.0,Champions
+4962.8175,10,36,335.0,Champions
+4281.5805,8,157,469.0,At Risk
+3338.13,5,136,277.5,Potential Loyalist
+1371.069,6,182,336.0,About to Sleep
+4145.835,6,65,344.0,Promising
+3084.7635,6,67,235.0,Potential Loyalist
+1695.336,5,310,121.5,Hibernating
+5605.266,9,71,257.5,Champions
+3496.509,8,114,429.0,Customers Needing Attention
+4155.6195,6,85,158.0,Promising
+2326.119,6,374,181.0,Hibernating
+2071.65,4,234,457.0,Hibernating
+1355.664,7,46,296.0,Potential Loyalist
+7327.251,9,71,134.5,Champions
+2898.525,8,137,223.0,Customers Needing Attention
+1331.997,6,147,158.0,About to Sleep
+5396.241,5,448,679.0,At Risk
+7903.263,8,52,119.0,Champions
+4023.528,7,306,326.5,At Risk
+9340.236,5,60,158.0,Promising
+3893.142,6,218,661.0,At Risk
+2663.847,7,640,112.0,Hibernating
+2905.671,6,201,97.0,Hibernating
+6619.695,12,45,201.0,Champions
+4912.539,7,44,210.0,Customers Needing Attention
+3565.878,4,72,389.0,Promising
+1095.21,6,415,193.0,Lost
+885.96,1,431,0.0,Lost
+7907.22,8,87,293.0,Loyal Customers
+3327.846,5,110,294.5,Potential Loyalist
+2375.325,5,221,699.5,Hibernating
+8332.653,11,65,142.0,Champions
+3946.221,8,44,552.0,Champions
+1778.151,8,32,253.0,Potential Loyalist
+6237.33,8,85,93.0,Champions
+8395.6575,13,74,141.5,Champions
+6487.578,6,58,210.0,Promising
+1851.9975,5,88,372.5,Hibernating
+2926.371,5,127,385.0,Potential Loyalist
+3162.009,7,341,157.0,At Risk
+1172.226,6,66,462.0,Recent Customers
+2760.2265,5,35,410.0,Promising
+476.415,5,61,514.0,Recent Customers
+4867.284,7,236,229.5,At Risk
+1201.44,5,45,308.0,Promising
+755.976,4,163,76.0,Hibernating
+8700.717,12,136,224.0,Loyal Customers
+2106.273,5,163,394.5,Hibernating
+1098.732,6,78,132.0,Recent Customers
+750.288,3,403,385.5,Lost
+696.54,4,349,98.0,Lost
+4357.455,5,31,75.5,Promising
+6472.734,8,189,155.0,At Risk
+3510.243,8,43,252.0,Loyal Customers
+1745.901,7,223,257.0,Hibernating
+1537.698,3,38,1240.5,Recent Customers
+3164.367,10,85,272.0,Potential Loyalist
+5636.616,7,240,272.5,At Risk
+2614.056,7,63,101.5,Potential Loyalist
+8604.948,13,33,240.0,Champions
+3183.189,8,32,465.0,Loyal Customers
+1407.57,3,655,294.5,Lost
+7844.22,15,31,175.0,Champions
+11727.2925,9,141,201.0,Loyal Customers
+2940.348,5,416,211.5,Hibernating
+1942.452,6,170,208.0,Hibernating
+6584.2785,11,222,186.0,At Risk
+2371.422,6,42,134.0,Promising
+3959.265,5,37,560.5,Promising
+1697.958,8,79,217.0,Potential Loyalist
+3542.307,3,611,310.5,Can’t Lose Them
+2141.721,5,36,527.0,Promising
+4085.253,8,155,63.0,At Risk
+5014.992,8,193,290.0,At Risk
+2650.701,6,42,413.0,Promising
+9688.29,10,127,187.0,Loyal Customers
+931.32,6,87,159.0,About to Sleep
+1146.183,7,171,570.5,Hibernating
+2395.056,6,723,169.0,Hibernating
+3014.319,7,100,530.0,Potential Loyalist
+8111.4015,7,147,131.0,Loyal Customers
+3512.457,11,39,229.5,Potential Loyalist
+6353.304,10,134,343.0,Loyal Customers
+893.16,5,128,274.0,About to Sleep
+2948.973,10,222,152.0,At Risk
+3073.221,6,515,187.0,Hibernating
+2278.083,6,414,162.0,Hibernating
+8369.01,12,292,122.0,Can’t Lose Them
+336.525,4,466,232.0,Lost
+1886.19,7,49,301.0,Potential Loyalist
+203.82,2,193,579.0,Hibernating
+1157.565,8,64,448.0,Potential Loyalist
+1438.875,3,75,315.5,Recent Customers
+3561.2805,7,137,257.0,Potential Loyalist
+1325.289,6,68,105.0,Recent Customers
+2052.792,7,66,319.5,Potential Loyalist
+3957.165,7,99,259.5,Customers Needing Attention
+1544.61,4,467,303.0,Lost
+3656.982,4,162,77.0,About to Sleep
+864.822,4,205,748.0,Hibernating
+6771.552,8,141,153.0,Loyal Customers
+7376.517,5,180,416.0,At Risk
+5857.7595,6,126,152.0,Customers Needing Attention
+1983.948,4,457,251.0,Lost
+7658.37,10,299,282.0,Can’t Lose Them
+1686.444,7,131,185.5,Hibernating
+794.865,5,74,228.5,Recent Customers
+158.01,3,165,937.5,Hibernating
+5901.3075,10,86,104.0,Champions
+1406.019,7,67,245.0,Potential Loyalist
+7125.849,9,47,116.5,Champions
+1722.906,6,72,469.0,Recent Customers
+2772.3,7,152,281.5,Hibernating
+1717.8225,6,155,380.0,Hibernating
+4440.6885,5,124,372.0,Customers Needing Attention
+596.73,4,117,138.0,Recent Customers
+6685.3755,7,156,179.5,At Risk
+1433.7,8,39,214.0,Potential Loyalist
+4556.559,7,159,176.0,At Risk
+3060.153,7,144,123.0,Potential Loyalist
+7362.267,8,130,353.0,Loyal Customers
+4761.486,14,133,263.0,Loyal Customers
+547.968,3,1142,89.0,Lost
+2367.51,5,373,195.5,Hibernating
+1779.384,8,40,187.0,Potential Loyalist
+841.26,2,474,19.0,Lost
+4891.9155,6,169,172.0,At Risk
+6677.181,9,44,182.0,Champions
+8612.877,6,70,427.0,Promising
+5937.78,8,112,242.0,Loyal Customers
+5258.94,5,53,131.5,Promising
+4255.647,8,242,190.0,At Risk
+8111.859,9,135,390.5,Loyal Customers
+1392.84,3,525,401.0,Lost
+1507.074,4,320,375.0,Lost
+689.67,4,169,190.0,Hibernating
+8428.509,8,163,45.0,At Risk
+2689.557,7,80,105.5,Potential Loyalist
+1978.062,5,58,833.0,Recent Customers
+3477.114,8,92,251.0,Customers Needing Attention
+1121.61,3,84,800.0,Recent Customers
+4274.0265,7,162,345.5,At Risk
+1954.611,8,150,318.0,At Risk
+1359.954,4,240,1010.0,Hibernating
+5990.151,7,281,306.0,At Risk
+4297.278,6,35,204.0,Promising
+1686.825,2,420,841.0,Lost
+1127.826,7,86,300.5,Potential Loyalist
+1493.106,4,393,264.0,Lost
+4197.918,7,85,205.0,Customers Needing Attention
+2329.011,9,86,181.0,Potential Loyalist
+6101.142,8,77,134.0,Champions
+6577.491,4,603,352.0,Can’t Lose Them
+3468.825,10,145,177.0,Potential Loyalist
+4987.653,8,64,363.0,Loyal Customers
+3216.3375,3,446,264.5,Can’t Lose Them
+404.58,4,306,405.0,Lost
+2369.691,6,241,254.0,Hibernating
+893.472,3,364,103.5,Lost
+1911.417,7,141,263.0,Hibernating
+2841.6555,9,138,312.5,Potential Loyalist
+2844.612,8,68,206.0,Customers Needing Attention
+5085.633,10,32,177.0,Champions
+6973.476,10,85,231.0,Champions
+5125.824,7,186,86.0,At Risk
+969.327,4,370,26.0,Lost
+2418.084,5,36,188.0,Promising
+5219.547,9,84,172.5,Champions
+6748.332,4,606,192.0,Can’t Lose Them
+1923.639,5,196,132.5,Hibernating
+526.482,4,472,457.0,Lost
+3452.319,8,75,240.0,Customers Needing Attention
+3226.962,8,85,86.0,Customers Needing Attention
+4416.918,6,36,263.0,Promising
+5579.463,9,47,197.0,Champions
+4472.013,5,178,167.0,At Risk
+3802.2255,6,74,742.0,Potential Loyalist
+3699.327,6,46,188.0,Promising
+11500.3755,8,182,177.0,At Risk
+2822.823,4,159,565.0,About to Sleep
+2353.635,6,170,96.0,Hibernating
+2190.543,7,438,293.0,Hibernating
+3719.34,6,500,183.0,Hibernating
+4012.035,7,54,592.0,Customers Needing Attention
+2616.51,7,351,322.0,Hibernating
+2971.677,4,168,322.0,About to Sleep
+4859.637,10,82,152.0,Champions
+3801.432,6,533,165.0,Hibernating
+6957.774,6,65,317.0,Promising
+3813.228,6,64,514.0,Potential Loyalist
+802.275,3,305,545.0,Lost
+2547.684,4,84,148.0,Recent Customers
+5182.4985,6,32,286.0,Promising
+7755.69,11,80,161.5,Champions
+2780.454,5,46,320.5,Promising
+355.74,3,136,657.5,Recent Customers
+3607.497,7,124,138.5,Potential Loyalist
+4365.765,7,54,587.5,Customers Needing Attention
+1716.618,5,46,360.5,Promising
+2690.448,9,289,213.5,At Risk
+6604.3695,11,82,142.5,Champions
+2843.985,9,36,333.0,Potential Loyalist
+2600.7465,5,52,309.5,Promising
+7421.691,7,122,202.5,Loyal Customers
+3180.789,5,39,190.5,Promising
+4006.056,8,37,136.0,Champions
+6430.176,13,85,179.0,Champions
+7201.155,6,173,95.0,At Risk
+1633.869,4,153,167.0,Hibernating
+5881.794,11,73,187.5,Champions
+5120.6745,8,104,185.0,Loyal Customers
+4548.339,6,38,397.0,Promising
+6490.938,10,46,319.0,Champions
+6718.1535,7,158,152.0,At Risk
+1734.852,9,135,408.5,Potential Loyalist
+3955.659,9,154,160.5,At Risk
+2669.868,4,49,278.0,Recent Customers
+3276.918,3,306,516.5,Can’t Lose Them
+9498.804,4,68,257.0,Promising
+2253.006,5,53,180.5,Promising
+5064.2835,8,278,254.0,Can’t Lose Them
+2799.252,10,89,196.0,Potential Loyalist
+5544.72,11,33,149.5,Champions
+5708.007,5,99,361.0,Customers Needing Attention
+3017.433,7,225,478.0,Hibernating
+9617.061,13,70,191.5,Champions
+7377.831,9,219,195.5,At Risk
+3349.188,5,741,92.5,Hibernating
+6647.943,8,74,375.0,Champions
+1732.344,6,56,129.0,Recent Customers
+2921.889,7,86,129.5,Potential Loyalist
+1753.3635,4,36,568.0,Recent Customers
+2134.026,6,91,190.0,Hibernating
+3485.5395,3,423,563.5,Can’t Lose Them
+9657.7755,13,38,245.5,Champions
+1719.204,4,212,28.0,Hibernating
+2335.296,4,220,962.0,Hibernating
+3619.749,8,58,185.0,Customers Needing Attention
+1334.274,5,182,258.5,About to Sleep
+5125.44,6,177,234.0,At Risk
+6406.566,8,37,353.0,Champions
+1104.654,6,57,205.0,Recent Customers
+3762.666,6,93,140.0,Potential Loyalist
+4101.486,5,50,178.5,Promising
+565.422,7,334,104.5,Lost
+1115.283,4,287,423.0,Lost
+5474.094,5,140,374.5,Customers Needing Attention
+1409.85,2,669,437.0,Lost
+1557.303,4,617,151.0,Lost
+4807.458,5,101,461.0,Customers Needing Attention
+2017.4175,6,86,475.0,Recent Customers
+4581.471,10,67,251.0,Champions
+4477.254,5,69,524.0,Promising
+6410.904,8,222,252.0,At Risk
+843.3705,6,170,92.0,About to Sleep
+4019.868,8,59,322.0,Loyal Customers
+8366.817,11,78,206.0,Champions
+5883.684,8,72,112.0,Champions
+1449.012,5,52,95.5,Promising
+6532.344,6,221,517.0,At Risk
+2519.736,13,138,266.5,Potential Loyalist
+408.483,1,827,0.0,Lost
+4890.0465,6,390,265.0,At Risk
+779.094,3,653,248.5,Lost
+8508.444,3,145,868.0,Promising
+7287.471,12,136,181.0,Loyal Customers
+13056.297,10,94,392.0,Loyal Customers
+3897.948,9,150,286.5,At Risk
+4707.684,7,33,217.0,Customers Needing Attention
+802.116,2,456,812.0,Lost
+1898.511,3,616,604.0,Lost
+4562.679,7,52,252.0,Customers Needing Attention
+5298.477,6,400,310.0,At Risk
+4671.2115,12,221,210.0,At Risk
+2311.6695,7,52,292.5,Potential Loyalist
+6068.532,5,63,595.5,Promising
+3277.059,5,73,395.0,Potential Loyalist
+5990.304,8,38,179.0,Champions
+7012.3815,4,169,289.0,Can’t Lose Them
+1920.9,3,105,420.0,About to Sleep
+4271.421,6,67,474.0,Promising
+2553.432,7,177,354.5,Hibernating
+1855.005,5,557,326.5,Hibernating
+1866.459,8,115,272.0,Potential Loyalist
+1314.45,9,67,187.5,Potential Loyalist
+1306.395,8,134,169.0,Potential Loyalist
+5169.7785,9,375,350.5,Can’t Lose Them
+682.185,4,634,67.0,Lost
+2524.5,3,429,464.5,Lost
+4684.101,10,39,162.0,Champions
+3908.583,11,54,98.0,Champions
+1023.306,5,32,453.0,Promising
+3313.29,3,404,305.0,Can’t Lose Them
+5733.24,6,296,536.0,At Risk
+7956.801,8,77,206.0,Champions
+1048.5075,5,339,138.5,Lost
+2373.141,5,212,244.0,Hibernating
+8650.371,12,46,370.0,Champions
+3029.76,5,123,94.5,Potential Loyalist
+3512.364,6,106,128.0,Potential Loyalist
+5054.193,7,148,333.5,Customers Needing Attention
+1081.875,6,126,402.0,About to Sleep
+1120.386,3,159,775.0,Hibernating
+5092.788,9,130,295.0,Loyal Customers
+92.835,3,161,722.5,Hibernating
+2496.09,4,373,348.0,Lost
+1189.545,5,144,374.0,About to Sleep
+5552.9325,7,31,241.5,Customers Needing Attention
+4264.05,5,390,117.0,At Risk
+1519.905,5,191,159.5,Hibernating
+2908.344,6,43,99.0,Promising
+4541.3535,7,178,328.5,At Risk
+2999.964,9,38,94.5,Potential Loyalist
+6787.146,10,219,234.0,At Risk
+8109.282,9,56,246.5,Champions
+953.808,8,79,99.0,Potential Loyalist
+682.53,4,151,371.0,Hibernating
+1348.8855,5,282,693.0,Lost
+1581.081,6,351,216.0,Hibernating
+5342.607,4,269,96.0,Can’t Lose Them
+3008.652,8,35,254.0,Loyal Customers
+941.232,6,84,307.0,Recent Customers
+366.384,3,47,691.0,Recent Customers
+5294.88,9,93,221.5,Loyal Customers
+1319.85,3,212,287.5,Hibernating
+2362.2,3,240,480.0,Hibernating
+3668.232,4,74,364.0,Promising
+1843.641,7,331,269.5,Hibernating
+1484.709,5,223,126.5,About to Sleep
+1288.242,5,942,77.5,Lost
+4179.0405,7,271,457.0,At Risk
+7356.126,7,50,418.0,Customers Needing Attention
+4063.4985,9,337,242.5,Can’t Lose Them
+3207.3735,7,416,239.5,At Risk
+2888.661,7,296,251.0,At Risk
+23.4,1,528,0.0,Lost
+4485.399,4,155,403.0,Can’t Lose Them
+398.988,2,1177,195.0,Lost
+4438.113,7,54,203.5,Customers Needing Attention
+2902.494,7,548,256.0,At Risk
+1390.935,4,134,539.0,Recent Customers
+2837.0295,4,68,110.0,Promising
+2740.104,7,262,156.5,At Risk
+1645.083,7,39,157.5,Potential Loyalist
+56.52,1,156,0.0,Hibernating
+1982.394,5,142,222.0,Hibernating
+4022.58,6,694,215.0,At Risk
+1411.398,3,99,423.5,Recent Customers
+7301.187,9,128,176.0,Loyal Customers
+9379.539,11,65,81.5,Champions
+3672.096,9,63,148.0,Potential Loyalist
+5653.272,5,162,313.0,At Risk
+3702.186,9,60,187.5,Potential Loyalist
+1796.8395,3,33,558.0,Recent Customers
+6428.649,13,166,216.0,At Risk
+3100.596,6,36,939.0,Promising
+4554.903,8,59,240.0,Loyal Customers
+5549.241,8,47,178.0,Champions
+5017.0305,7,43,366.5,Customers Needing Attention
+1607.94,3,774,456.5,Lost
+3080.6565,5,123,921.0,Potential Loyalist
+4588.554,3,72,662.0,Promising
+3508.743,9,94,217.0,Potential Loyalist
+3278.103,7,85,260.0,Potential Loyalist
+4032.18,6,446,159.0,At Risk
+1471.506,8,43,230.0,Potential Loyalist
+2749.425,3,212,527.5,About to Sleep
+1512.027,9,117,226.0,Potential Loyalist
+3278.403,8,161,221.0,At Risk
+7810.434,5,401,210.5,At Risk
+6125.1105,6,136,641.0,Customers Needing Attention
+631.056,3,156,578.0,Hibernating
+1257.744,8,38,247.0,Potential Loyalist
+1664.094,6,122,304.0,Hibernating
+3887.025,10,46,230.0,Potential Loyalist
+5013.348,7,609,296.5,At Risk
+2889.486,6,31,720.0,Promising
+1308.594,10,37,206.0,Potential Loyalist
+1033.302,3,58,716.0,Recent Customers
+2102.352,6,102,223.0,Hibernating
+3208.962,9,109,254.0,Potential Loyalist
+4727.337,5,180,250.5,At Risk
+1133.466,7,201,489.5,Hibernating
+3491.4,7,88,316.0,Potential Loyalist
+6350.1825,8,61,206.0,Champions
+1468.05,3,51,654.5,Recent Customers
+1109.949,5,102,392.0,About to Sleep
+1672.632,9,52,266.0,Potential Loyalist
+3889.8225,6,533,223.0,Hibernating
+4389.354,6,157,396.0,At Risk
+5473.632,10,43,235.0,Champions
+5929.41,8,54,342.0,Champions
+5692.254,9,46,400.5,Champions
+1797.075,6,134,419.0,Hibernating
+3875.394,6,116,99.0,Potential Loyalist
+4486.9695,10,61,402.0,Champions
+2317.8375,4,72,152.0,Recent Customers
+4397.946,3,199,1093.5,Can’t Lose Them
+3288.684,5,67,332.0,Potential Loyalist
+4912.6185,6,127,305.0,Customers Needing Attention
+479.775,5,45,372.5,Promising
+3807.09,5,78,154.0,Potential Loyalist
+2181.915,7,282,288.5,Hibernating
+16564.143,12,337,107.0,Can’t Lose Them
+2717.853,5,31,362.0,Promising
+1437.939,6,152,406.0,About to Sleep
+886.104,3,120,472.0,Recent Customers
+5835.819,7,158,148.0,At Risk
+2729.97,6,311,270.0,Hibernating
+6441.996,10,95,342.0,Loyal Customers
+4511.715,8,217,234.0,At Risk
+1313.076,7,158,149.5,Hibernating
+5061.039,6,66,100.0,Promising
+3223.3125,9,388,159.0,At Risk
+2742.987,5,72,147.5,Potential Loyalist
+6369.777,8,85,349.0,Champions
+902.49,2,138,467.0,Recent Customers
+4686.573,7,87,311.0,Customers Needing Attention
+907.776,4,81,459.0,Recent Customers
+1035.351,6,136,105.0,About to Sleep
+4662.567,6,116,108.0,Customers Needing Attention
+590.79,4,572,537.0,Lost
+1261.197,9,57,296.0,Potential Loyalist
+4669.095,5,68,334.0,Promising
+6522.555,8,39,180.0,Champions
+4188.39,9,38,201.5,Champions
+251.613,1,507,0.0,Lost
+1165.659,4,386,248.0,Lost
+8816.7465,10,93,234.0,Loyal Customers
+4548.48,11,242,87.0,At Risk
+1812.54,6,201,157.0,Hibernating
+3195.045,7,101,588.5,Potential Loyalist
+791.28,2,245,1084.0,Hibernating
+5878.065,9,297,326.5,Can’t Lose Them
+6160.983,9,57,243.5,Champions
+1588.35,3,612,409.5,Lost
+504.27,3,149,196.5,Recent Customers
+3017.4135,5,50,1049.5,Promising
+2565.228,4,252,288.0,Hibernating
+6814.899,9,159,328.5,At Risk
+3168.945,4,32,406.0,Promising
+5473.986,9,89,212.0,Loyal Customers
+3294.654,4,110,552.0,Promising
+2120.8695,8,143,230.0,Potential Loyalist
+1763.94,5,236,232.5,Hibernating
+1609.632,4,106,401.0,About to Sleep
+5101.74,10,169,353.0,At Risk
+5782.356,5,318,327.5,At Risk
+1526.634,5,463,268.0,Hibernating
+5778.402,8,51,391.0,Champions
+3477.648,6,273,112.0,Hibernating
+5100.6,10,36,196.0,Champions
+2911.623,8,312,378.0,At Risk
+2442.54,4,67,334.0,Recent Customers
+4588.722,4,260,153.0,Can’t Lose Them
+1495.4625,8,38,163.0,Potential Loyalist
+2661.882,4,137,120.0,About to Sleep
+2182.029,7,185,242.0,Hibernating
+2653.059,5,417,287.5,Hibernating
+6641.739,7,120,157.0,Loyal Customers
+1884.576,4,37,782.0,Recent Customers
+3430.0695,5,141,457.0,Potential Loyalist
+2408.28,5,35,275.0,Promising
+1462.305,5,266,173.0,Lost
+1081.269,7,142,176.5,About to Sleep
+968.805,8,52,121.0,Potential Loyalist
+2113.458,4,275,369.0,Lost
+3864.06,6,228,307.0,Hibernating
+8530.9185,14,74,230.0,Champions
+11853.069,11,34,137.5,Champions
+4545.7215,7,32,467.5,Customers Needing Attention
