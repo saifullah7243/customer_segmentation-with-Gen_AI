@@ -143,7 +143,6 @@ elif option == "About":
     st.markdown(
         """
          **Core Technologies:**
-        - **LangChain**: For seamless integration with AI models.
         - **Python-dotenv**: For managing environment variables.
         - **Ipykernel**: Supporting Jupyter notebooks.
 
@@ -160,7 +159,7 @@ elif option == "About":
 
         **Other Technologies:**
         - **Openpyxl**: For working with Excel files.
-        - **LangChain Community & Core**: Enhanced capabilities for working with AI models.
+        - **Groq AI**: AI-based retention strategy generator.
         - **Streamlit**: Interactive web application framework.
         """
     )
